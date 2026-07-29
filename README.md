@@ -21,9 +21,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently mastering **LLD, HLD, and DSA**
-
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, or Backend Development**
+- 💬 Ask me about **LLD, HLD, DSA, Java, Spring Boot, REST APIs, Microservices, or Backend Development**
 
 - 📫 How to reach me **amitsingh12559@gmail.com**
 
